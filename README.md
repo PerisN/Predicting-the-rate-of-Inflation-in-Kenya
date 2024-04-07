@@ -1,7 +1,7 @@
 
 # Analyzing Inflation in Kenya with Linear Regression
 
-This project aims to explore inflation patterns in Kenya from 2005 to March 2024 using linear regression. The project will utilize a dataset containing Year, Month, Annual Average Inflation, and 12-Month Inflation data points.
+The project delves into the complexities of inflation in Kenya from 2005 to March 2024. We'll leverage the power of linear regression to attempt to predict future movements.
 ## Hypothesis
 
 - Develop a linear regression model to predict future 12-month inflation based on historical data.
@@ -25,4 +25,4 @@ This project aims to explore inflation patterns in Kenya from 2005 to March 2024
 
 ## Appendix
 
-This project is designed to be a learning experience. Feel free to explore different approaches, test various hypotheses, and share your discoveries 
+The project is designed to be a learning experience. Feel free to explore different approaches, test various hypotheses, and share your discoveries 
